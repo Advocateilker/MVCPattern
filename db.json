@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "İlker",
+      "title": "React MVC Pattern",
+      "text": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "date": "2023-09-11T19:13:12.523Z"
+    },
+    {
+      "id": 2,
+      "user": "Mehmet",
+      "title": "Node.js Best Practices",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in justo vel quam fermentum consequat.",
+      "date": "2023-09-15T10:45:32.123Z"
+    },
+    {
+      "id": 3,
+      "user": "Mehmet",
+      "title": "Python Web Scraping Techniques",
+      "text": "Sed euismod nunc eget varius fringilla. Duis sit amet mauris vel tortor condimentum ultrices.",
+      "date": "2023-09-18T14:20:55.789Z"
+    },
+    {
+      "id": 4,
+      "user": "Berna",
+      "title": "Machine Learning Fundamentals",
+      "text": "Vestibulum facilisis risus nec lectus ultricies, non facilisis arcu volutpat. Fusce vel nisi id sapien pellentesque aliquam.",
+      "date": "2023-09-22T08:30:40.456Z"
+    },
+    {
+      "id": 5,
+      "user": "Berna",
+      "title": "Vue.js Component Lifecycle",
+      "text": "Proin aliquet ante nec urna dignissim, ac euismod nulla lobortis. In hac habitasse platea dictumst.",
+      "date": "2023-09-25T17:55:21.234Z"
+    },
+    {
+      "id": 6,
+      "user": "Berna",
+      "title": "Web Development Trends 2023",
+      "text": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed quis augue eu libero pellentesque facilisis.",
+      "date": "2023-09-28T21:10:12.789Z"
+    },
+    {
+      "id": "35a60b0d-0366-42a6-844e-3081ba26c07d",
+      "date": "2023-11-10T09:47:12.093Z",
+      "user": "İlker",
+      "title": "MVC Process",
+      "text": "lorem lorem lorem lorem"
+    },
+    {
+      "id": "bb08c121-bd22-452b-affa-261dd7a03c3a",
+      "date": "2023-11-10T09:50:55.476Z",
+      "user": "Mustafa",
+      "title": "React Hooks",
+      "text": "işldiasşdklisaşdkasiş idkşsaşdsak diasdk \n"
+    },
+    {
+      "id": "1635b6c7-2e24-4d2f-a254-7774a4d9ecd8",
+      "date": "2023-11-10T09:52:42.750Z",
+      "user": "Berna",
+      "title": "Testing",
+      "text": "post\n"
+    },
+    {
+      "id": "ad42f467-f158-48c5-bc2f-363817b8c5ab",
+      "date": "2023-11-10T10:26:14.412Z",
+      "user": "İlker",
+      "title": "DENME TEST",
+      "text": "ilke rilerk iaşdksahı dsa das "
+    },
+    {
+      "id": "ecfac17e-b3af-4e03-bf8f-eddab8758e46",
+      "date": "2023-11-10T10:59:27.892Z",
+      "user": "Berna",
+      "title": "React Hooks",
+      "text": "isadişasdlşisa şsiad lias dlialdi dşas ldisa lidas"
+    }
+  ]
+}
